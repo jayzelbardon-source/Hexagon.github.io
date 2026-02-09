@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Aking Liham - Maria Clara by Sugarcane</title>
