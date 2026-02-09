@@ -207,10 +207,7 @@
         <p class="closing">
             Maligayang Araw ng mga Puso,<br>
             aking Mahal
-        </p>
-        p class="ps">
-            P.S. Maaari kang manood ng mga video sa YouTube nang walang abala ng mga ad sa pamamagitan ng pag-subscribe sa YouTube Premium, o sa pamamagitan ng mga lehitimong paraan tulad ng paggamit ng embed mode para sa mga partikular na videos 
-    </p>
+     </p>
     </div>
     
     <!-- AUDIO PLAYER -->
