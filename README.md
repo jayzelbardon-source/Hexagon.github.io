@@ -124,11 +124,7 @@
         <p class="closing">
             Maligayang Araw ng mga Puso,<br>aking Mahal
         </p>
-
-        <!-- HIDDEN AUDIO -->
-        <audio id="bg-music" src="https://freesound.org/data/previews/647/647856_12411833-lq.mp3" preload="auto"></audio>
-    </div>
-
+        
     <script>
         function openLetter() {
             document.getElementById('envelope').classList.add('open');
