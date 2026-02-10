@@ -98,10 +98,6 @@
             font-style: italic;
         }
 
-        /* HIDDEN AUDIO */
-        #bg-music {
-            display: none;
-        }
     </style>
 </head>
 <body>
