@@ -110,11 +110,13 @@
     <div id="letter">
         <div class="greeting">Aking Iniirog,</div>
         <div class="message">
+        
 Aking Iniirog, mula pa lamang nang ika'y unang nasilayan ng mga mata ko, isang himala ang naganap sa kaibuturan ng aking puso. Hindi ko sukat akalain na sa isang sulyap lamang, ang aking kaluluwa'y mabibihag ng iyong kariktan. Tila ba sa bawat panaginip, sa bawat pagtatagpo ng mga bituin, ang ating mga palad ay nakatakdang maghawak, ang ating mga puso ay nakatakdang magsanib. Sa bawat sansinukob, sa bawat pagkakataon, ang ating mga kaluluwa'y nakatakdang magtagpo at sa iyo'y humaling.
 
 Sa araw ng mga puso, isang panaginip na ika'y kapiling ko, habang ginugunita natin ang ika-pitong buwan ng ating pagmamahalan. Hindi ko akalain na ang panahon ay kay bilis lumipas, sapagkat una pa lamang, ikaw ay akin lamang pinapangarap. Ako'y lubos na nagpapasalamat sa Poong Maykapal sa pagbibigay sa akin ng isang anghel na katulad mo, at sa bawat araw na ikaw ay aking kapiling, ang puso ko'y napupuno ng walang kapantay na ligaya.
 
 Sabihin mang dumating ang araw na hindi ko na muling mamamasdan ang iyong ganda, asahan mong hindi ako titigil sa paghahanap, sa paghihintay. Sapagkat kahit ang mundo'y magunaw, ang pag-ibig ko sa iyo'y mananatili magpakailanman. At kung sakali mang ang aking mga mata'y magdilim, hindi ako mangangamba, sapagkat batid ng aking puso kung saan ito titibok, tanda ko pa rin ang iyong tinig at ang iyong bango. At kahit pa ang alaala'y maglaho, ang damdamin ko'y hindi magbabago, sapagkat ikaw ang tanda ng aking puso. Sa aking paningin, ika'y walang kapintasan, bagkus ang bawat di-kasakdalan mo'y siyang nagpapatibay sa aking pagmamahal, sapagkat sa iyong mga pagkakamali, nakikita ko ang iyong tunay na puso. Kaya't sa bawat tibok ng puso ko, ang pangalan mo ang siyang sinasambit, aking Iniirog.
+
         </div>
         <div class="closing">Maligayang ika-pitong buwan ng ating pagmamahalan, at maligayang Araw ng mga Puso, Aking sinta</div>
     </div>
