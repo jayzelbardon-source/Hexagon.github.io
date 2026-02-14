@@ -130,23 +130,3 @@ Sabihin mang dumating ang araw na hindi ko na muling mamamasdan ang iyong ganda,
     </script>
 </body>
 </html>
- 
-Sabihin mang dumating ang araw na hindi ko na muling mamamasdan ang iyong ganda, asahan mong hindi ako titigil sa paghahanap, sa paghihintay. Sapagkat kahit ang mundo'y magunaw, ang pag-ibig ko sa iyo'y mananatili magpakailanman. At kung sakali mang ang aking mga mata'y magdilim, hindi ako mangangamba, sapagkat batid ng aking puso kung saan ito titibok, tanda ko pa rin ang iyong tinig at ang iyong bango. At kahit pa ang alaala'y maglaho, ang damdamin ko'y hindi magbabago, sapagkat ikaw ang tanda ng aking puso. Sa aking paningin, ika'y walang kapintasan, bagkus ang bawat di-kasakdalan mo'y siyang nagpapatibay sa aking pagmamahal, sapagkat sa iyong mga pagkakamali, nakikita ko ang iyong tunay na puso. Kaya't sa bawat tibok ng puso ko, ang pangalan mo ang siyang sinasambit, aking Iniirog.
-
-                       maligayang ika-pitong buwan ng ating pagmamahalan, at maligayang araw ng mga puso, aking sinta
-    </div>o
-</div>
-
-<script>
-function openLetter(){
-    document.getElementById("envelope").classList.add("open");
-
-    setTimeout(()=>{
-        document.getElementById("envelope").style.display="none";
-        document.getElementById("letter").style.display="block";
-    },1000);
-}
-</script>
-
-</body>
-</html>
